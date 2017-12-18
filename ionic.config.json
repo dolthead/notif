@@ -1,0 +1,8 @@
+{
+  "name": "notif",
+  "app_id": "27430978",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
